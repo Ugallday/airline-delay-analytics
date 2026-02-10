@@ -7,6 +7,23 @@ The goal is to understand how reliably flights depart from ORD and identify whet
 This repository contains the Phase-1 analysis, focused on a single airline (Frontier) at a single airport (ORD) to ensure analytical rigor before expanding to cross-airline comparisons.
 
 
+📊 Data Coverage
+
+This analysis uses 10 years of U.S. flight operations data (2014–2024) to evaluate airline reliability trends at Chicago O’Hare (ORD).
+
+Using a full decade of data allows the dashboard to capture:
+
+long-term delay patterns
+
+seasonal congestion effects
+
+operational stability over time
+
+meaningful trend analysis rather than short-term noise
+
+All datasets were processed and modeled to support a longitudinal operational performance analysis for Frontier Airlines at ORD.
+
+
 🔧 Tools Used
 
 KNIME → data cleaning, joins, feature engineering, KPI logic
