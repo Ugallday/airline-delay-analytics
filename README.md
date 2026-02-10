@@ -6,6 +6,7 @@ The goal is to understand how reliably flights depart from ORD and identify whet
 
 This repository contains the Phase-1 analysis, focused on a single airline (Frontier) at a single airport (ORD) to ensure analytical rigor before expanding to cross-airline comparisons.
 
+
 🔧 Tools Used
 
 KNIME → data cleaning, joins, feature engineering, KPI logic
@@ -30,6 +31,7 @@ Congestion vs delay correlation
 
 All KPIs are calculated using flag-based logic to avoid bias from cancelled or diverted flights.
 
+
 🎯 Project Focus (Phase-1)
 
 This version of the dashboard is intentionally scoped to:
@@ -47,9 +49,11 @@ Reliable time-series trends
 
 Defensible methodology
 
+
 🔍 Key Insight
 
 Taxi-out congestion at ORD strongly correlates with late departures, suggesting that ground movement and runway pressure are major contributors to operational delays for Frontier flights.
+
 
 🚧 Upcoming Expansion (Phase-2)
 
@@ -73,6 +77,7 @@ Operational efficiency benchmarking
 
 This will evolve into a full airport-centric operations analytics project.
 
+
 📁 Repository Contents
 /PowerBI
   Frontier_ORD_Dashboard.pbix
@@ -81,6 +86,7 @@ This will evolve into a full airport-centric operations analytics project.
   dashboard.png
 
 /Data
+
 
 💡 Why This Project Matters
 
@@ -98,6 +104,7 @@ Dashboard design for decision-making
 
 It is built to reflect real-world airline operations analysis, not just visualization.
 
+
 📬 Future Work
 
 Multi-airline ORD comparison
@@ -110,9 +117,11 @@ Airport congestion modeling
 
 Predictive delay modeling
 
+
 Author
 
 Umang Gupta
+
 
 ⭐ If you’re viewing this repo
 
